@@ -11,10 +11,38 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en&theme=dark" alt="UltimatePlayer97" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97&theme=dark&" alt="UltimatePlayer97" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact&theme=dark" alt="UltimatePlayer97" /></p>
+<!-- GitHub Stats -->
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en" />
+  </picture>
+</div>
 
+<br/>
+
+<!-- Streak Stats -->
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Top Languages -->
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact" />
+  </picture>
+</div>
+
+<!-- GitHub Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UltimatePlayer97/UltimatePlayer97/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UltimatePlayer97/UltimatePlayer97/output/github-snake.svg" />
