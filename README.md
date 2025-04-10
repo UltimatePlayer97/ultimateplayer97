@@ -27,8 +27,3 @@
 <picture>
   <image src="assets/help.gif" />
 </picture>
-
-<br>
-<br>
-
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UltimatePlayer97" alt="UltimatePlayer97" /></a></p>
