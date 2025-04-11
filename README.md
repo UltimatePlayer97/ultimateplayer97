@@ -11,37 +11,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
-<!--
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en" />
-  </picture>
-</div>
-
-<br/>
-
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97" />
-  </picture>
-</div>
-
-<br/>
-
-
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact" />
-  </picture>
-</div>
--->
 --------------
 
 ### 📈 GitHub Stats
@@ -130,8 +99,25 @@
 -->
 --------------
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UltimatePlayer97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies<img 
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-profile-trophy.vercel.app/?username=UltimatePlayer97&theme=radical&no-frame=false&no-bg=false&margin-w=4" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-profile-trophy.vercel.app/?username=UltimatePlayer97&no-frame=false&no-bg=false&margin-w=4" 
+  />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=UltimatePlayer97&no-frame=false&no-bg=false&margin-w=4" 
+    alt="GitHub Profile Trophy" 
+    style="pointer-events: none;" 
+  />
+</picture>
+
+
+
 
 <!-- 🐍 GitHub Snake -->
 <picture>
