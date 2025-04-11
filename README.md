@@ -45,12 +45,19 @@
 
 
 
+### 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UltimatePlayer97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatePlayer97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&show_icons=true&locale=en&theme=dark" alt="UltimatePlayer97" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UltimatePlayer97&theme=dark&" alt="UltimatePlayer97" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=UltimatePlayer97&show_icons=true&locale=en&layout=compact&theme=dark" alt="UltimatePlayer97" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- GitHub Snake -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UltimatePlayer97&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- 🐍 GitHub Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UltimatePlayer97/UltimatePlayer97/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UltimatePlayer97/UltimatePlayer97/output/github-snake.svg" />
@@ -63,3 +70,4 @@
 <picture>
   <image src="assets/help.gif" />
 </picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
