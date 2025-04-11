@@ -99,7 +99,7 @@
 -->
 --------------
 
-## 🏆 GitHub Trophies<img 
+## 🏆 GitHub Trophies
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
