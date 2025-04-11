@@ -79,15 +79,30 @@
 
 
 ### 🔝 Top Contributed Repo
-<img 
-  src="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=default&combine_all_yearly_contributions=true" 
+  />
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&combine_all_yearly_contributions=true" 
+    alt="GitHub Contributor Stats" 
+    style="pointer-events: none;" 
+  />
+</picture>
+
+
+
+<!-- Light mode repo list <img 
+  src="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=default&combine_all_yearly_contributions=true" 
   alt="GitHub Contributor Stats" 
   style="pointer-events: none;" 
 />
 
-
-<!-- Light mode repo list 
-![](https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=default&combine_all_yearly_contributions=true)
 -->
 --------------
 
