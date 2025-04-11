@@ -13,80 +13,16 @@
 
 --------------
 
-### 📈 GitHub Stats
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&theme=default&hide_border=false&include_all_commits=false&count_private=false" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&hide_border=false&include_all_commits=false&count_private=false" 
-    alt="GitHub stats" 
-    style="pointer-events: none;" 
-  />
-</picture>
-
-<!-- GitHub Streaks -->
-<div align=left>
-  <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://nirzak-streak-stats.vercel.app/?user=UltimatePlayer97&theme=dark&hide_border=false" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://nirzak-streak-stats.vercel.app/?user=UltimatePlayer97&theme=default&hide_border=false" 
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=UltimatePlayer97&hide_border=false" 
-    alt="GitHub streak" 
-    style="pointer-events: none;" 
-  />
-</picture>
-
-</div>
-
-<div align="left"><picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatePlayer97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatePlayer97&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatePlayer97&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-    alt="Top languages" 
-    style="pointer-events: none;" 
-  />
-</picture>
-
-</div>
+## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=UltimatePlayer97&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=UltimatePlayer97&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatePlayer97&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 
 ### 🔝 Top Contributed Repo
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=default&combine_all_yearly_contributions=true" 
-  />
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&combine_all_yearly_contributions=true" 
-    alt="GitHub Contributor Stats" 
-    style="pointer-events: none;" 
-  />
-</picture>
+![](https://github-contributor-stats.vercel.app/api?username=UltimatePlayer97&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
 
@@ -131,4 +67,4 @@
 
 <picture>
   <image src="assets/help.gif" />
-</picture>
+</picture
